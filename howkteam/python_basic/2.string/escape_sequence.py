@@ -1,0 +1,8 @@
+print('\a')
+print('\ta')
+print('a\bbc')
+print('\' \" \\')
+print('a\na')
+print('35\53ni35')
+print('\\n')
+print("\/\/\/\\/\/")
