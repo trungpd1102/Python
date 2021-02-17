@@ -1,3 +1,4 @@
+# phân số
 from fractions import *
 
 frac2 = Fraction(1,4)
