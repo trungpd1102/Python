@@ -1,7 +1,7 @@
 # chuỗi trần
 # tránh lỗi khi sử dụng escape sequence
 
-# print(r'chuỗi này dễ bị \nhầm với escape sequence \t')
+# print(r'chuỗi này dễ bị \nhầm với escape sequence \t') // chuỗi trần đây
 
 
 # index chuỗi
